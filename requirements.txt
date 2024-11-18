@@ -1,0 +1,9 @@
+pandas
+numpy
+jupyter
+matplotlib
+scikit-learn
+seaborn
+pyspark
+dask
+xgboost
